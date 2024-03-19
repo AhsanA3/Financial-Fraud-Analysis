@@ -15,9 +15,8 @@ As a cybersecurity analyst participating in the JP Morgan Cybersecurity virtual 
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Install the required dependencies.
-3. Run the provided Python scripts or Jupyter notebooks to perform data analysis and visualization.
-4. Explore the findings and insights generated from the analysis.
+2. Open `task1.ipynb` in Google Colab or any Jupyter notebook environment.
+3. Run the notebook cells to execute the code and analyze the data.
 
 ## Resources
 - [Forage](https://www.theforage.com/?ref=g45XpK5j36bJjxWdA)
