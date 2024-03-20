@@ -7,11 +7,11 @@ Financial Fraud Analysis is a project aimed at analyzing fraud in financial paym
 As a cybersecurity analyst participating in the JP Morgan Cybersecurity virtual internship via Forage, you are tasked with analyzing a large dataset of financial transactions. The dataset includes various transaction types such as deposits, withdrawals, payments, and transfers, providing a comprehensive view of transactional activities within financial institutions.
 
 ## Process
-1. **Read the Dataset**: Read the dataset ('transactions.csv') as a Pandas dataframe, where the first row contains column names.
-2. **Extract Column Names**: Extract the column names as a list from the dataframe.
-3. **Explore Data**: Retrieve the first k rows from the dataframe to gain an initial understanding of the data. Obtain a random sample of k rows from the dataframe for further exploration.
-4. **Visualization**: Create visualizations, such as scatter plots, to analyze specific transaction types and identify patterns or anomalies, such as the Origin account balance delta vs. Destination account balance delta for Cash Out transactions.
-5. **Fraud Detection**: Utilize fraud detection mechanisms to identify and analyze fraudulent transactions flagged by the system, distinguishing between flagged frauds and actual frauds.
+1. Read the dataset ('transactions.csv') as a Pandas dataframe, where the first row contains column names.
+2. Extract the column names as a list from the dataframe.
+3. Retrieve the first k rows from the dataframe to gain an initial understanding of the data. Obtain a random sample of k rows from the dataframe for further exploration.
+4. Create visualizations, such as scatter plots, to analyze specific transaction types and identify patterns or anomalies, such as the Origin account balance delta vs. Destination account balance delta for Cash Out transactions.
+5. Utilize fraud detection mechanisms to identify and analyze fraudulent transactions flagged by the system, distinguishing between flagged frauds and actual frauds.
 
 ## How to Use
 1. Clone the repository to your local machine.
